@@ -121,4 +121,4 @@ Built as part of an **AI/ML learning journey** focusing on:
 
 ---
 
-🔥 *This project demonstrates how multi-agent systems can simplify complex AI research into actionable knowledge.*
+*This project demonstrates how multi-agent systems can simplify complex AI research into actionable knowledge.*
